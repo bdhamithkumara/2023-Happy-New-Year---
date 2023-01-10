@@ -31,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ gh repo clone bdhamithkumara/2023-Happy-New-Year---
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd 2023-Happy-New-Year---
 
 ```
 
