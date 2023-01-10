@@ -5,25 +5,22 @@
 
 </div>
 
-## Key Features
+<h1>Give me a 🌟 if you really like this.</h1>
+<h1>Follow me on GitHub <a href="https://github.com/bdhamithkumara">@bdhamithkumara</a></h1>
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+
+## Used Tags
+
+* html
+* head
+* meta
+* link
+* title
+* body
+* div
+* span
+* i
+* a
 
 ## How To Use
 
@@ -42,23 +39,6 @@ $ cd 2023-Happy-New-Year---
 
 You can [download](https://github.com/bdhamithkumara/2023-Happy-New-Year---/archive/refs/heads/master.zip) this code as ZIP file.
 
-## Emailware
-
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## Credits
-
-This software uses the following open source packages:
-
-- [Electron](http://electron.atom.io/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
-
-
 ## Support
 
 <a href="https://www.buymeacoffee.com/bdhamithkumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -68,6 +48,8 @@ This software uses the following open source packages:
 MIT
 
 ---
+
+<h1>Give me a 🌟 if you really like this.</h1>
 
 >
 > GitHub [@bdhamithkumara](https://github.com/bdhamithkumara) &nbsp;&middot;&nbsp;
