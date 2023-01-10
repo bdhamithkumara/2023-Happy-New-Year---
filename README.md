@@ -49,8 +49,6 @@ MIT
 
 ---
 
-<h1>Give me a 🌟 if you really like this.</h1>
-
 >
 > GitHub [@bdhamithkumara](https://github.com/bdhamithkumara) &nbsp;&middot;&nbsp;
 > Twitter [@bdhamithkumara](https://twitter.com/bdhamithkumara) &nbsp;&middot;&nbsp;
